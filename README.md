@@ -34,6 +34,14 @@ NavigationRailDestination(
                Check out the illustration below. It should explain how the property can be used to hide/show the text labels.            
  4) selectedIndex : The index into destinations for the current selected NavigationRailDestination.  
  
+ 
+ 
+ 
+ (https://user-images.githubusercontent.com/60923917/84161185-a21a5700-aa8c-11ea-8823-a1e9e1808f45.jpg
+ 
+ 
+ 
+ 
           and many more.....
           
           
